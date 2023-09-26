@@ -1,6 +1,6 @@
-# Appium-N11-Project
+# Appium N11 Mobil Test Project
 
-In this study, mobile phone purchasing automation was carried out in the N11 mobile application.
+In this study, mobile phone purchasing automation in the N11 mobile application with Java was carried out using the Android Studio virtual device emulator.
 
 Scenario Steps:
   * Click on the Categories button
